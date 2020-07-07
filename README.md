@@ -7,7 +7,7 @@ To add via your terminal:
 1) Clone this repository to your local directory
 > git clone https://github.com/Beaucheminlab/Library.git
 
-2) Edit inside Library
+2) Edit inside Library // note that empty directories don't register, so put at least one file in the dir you make/cp
 > cp ... Library
 
 > cd Library

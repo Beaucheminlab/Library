@@ -1,0 +1,1 @@
+This directory is for keeping track of the lectures we present to the group.
