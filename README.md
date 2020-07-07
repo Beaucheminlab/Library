@@ -9,7 +9,9 @@ To add via your terminal:
 
 2) Edit inside Library
 > cp ... Library
+
 > cd Library
+
 > emacs ...
 
 _Inside Library/_:
